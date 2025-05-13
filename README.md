@@ -1,10 +1,11 @@
-# hello_wrld
+# simple message board
 
 ## Getting started 
 
 ### `Blockchain part`
 
 ```sh
+#first clone the repo and go in the root folder 
 # installation and setup
 npm install -g truffle@latest
 # initialize project
@@ -20,9 +21,8 @@ truffle deploy
 ### `Client part`
 
 ```sh
-mkdir client
+#Enter the client folder to run the frontend 
 cd client
-npm create vite@latest
 # install dependencies
 npm install
 # Run the app
