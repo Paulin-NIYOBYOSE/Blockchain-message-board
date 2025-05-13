@@ -28,7 +28,3 @@ npm install
 # Run the app
 npm run dev
 ```
-
------------
-
-@0xJonaseb11
